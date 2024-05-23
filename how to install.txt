@@ -1,0 +1,3 @@
+Main code is inside the file YTdownloader.py
+You can build the .exe file using it
+I have used python 3.10, pytube, tkinter, and pyinstaller
